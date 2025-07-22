@@ -29,6 +29,10 @@ pip install numpy
 Color_Image.png
 ```
 and placed in the same folder as the Python code file.
+Note: If you want to use a different image name, make sure to update the image path in the code :
+```
+image = cv2.imread('YourImageName.png')
+```
 
 2. Run the code in the terminal :
 ```
@@ -70,7 +74,7 @@ And the image will show "Color: Green" at the top.
 ---
 
 ## Notes
-- Ensure the image file name is exactly **Color_Image.png**.
+- Ensure the image file name is exactly Color_Image.png, unless you update the filename in the code.
 - You can enhance the project by adding more colors or saving the output image.
 
 ---
