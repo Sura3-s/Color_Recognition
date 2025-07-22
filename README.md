@@ -24,7 +24,7 @@ pip install numpy
 ---
 
 ## How to Run the Project ?
-1. Make sure the image is saved with the name:
+1. Make sure the image is saved with the name :
 ```
 Color_Image.png
 ```
@@ -48,7 +48,7 @@ Position (x,y) - BGR: [B G R] - Color: ColorName
 
 ---
 
-## Supported Colors
+## Supported Colors 
 The program currently recognizes the following colors : 
 - Red
 - Green
@@ -75,3 +75,5 @@ And the image will show "Color: Green" at the top.
 
 ---
 
+## Author :
+Made By: **Sura Abdullah Alkhuzaim**
